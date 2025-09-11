@@ -54,4 +54,4 @@ GitHub Finder is a sleek web application built with React, Tailwind CSS, and Dai
 MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
-For questions or feedback, reach out to [ismail9700](https
+For questions or feedback, reach out to [ismail9700](https://github.com/ismail9700).
