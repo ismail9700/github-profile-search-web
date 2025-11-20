@@ -2,7 +2,7 @@
 A web application built with React, Tailwind CSS, and DaisyUI, enabling users to search for GitHub profiles and view detailed information about users and their repositories.
 
 ## Demo
-[**Try GitHub Finder Live**](https://github-finder-i.netlify.app/)
+[**Try It Live**](https://github-finder-i.netlify.app/)
 
 ## Features
 - **Profile Search**: Search for GitHub users by username.
