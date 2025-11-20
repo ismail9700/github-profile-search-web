@@ -1,7 +1,5 @@
-# GitHub Finder
-
 ## About
-GitHub Finder is a sleek web application built with React, Tailwind CSS, and DaisyUI, enabling users to search for GitHub profiles and view detailed information about users and their repositories. It features a modern, responsive design for an optimal user experience.
+A web application built with React, Tailwind CSS, and DaisyUI, enabling users to search for GitHub profiles and view detailed information about users and their repositories.
 
 ## Demo
 [**Try GitHub Finder Live**](https://github-finder-i.netlify.app/)
